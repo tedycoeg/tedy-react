@@ -1,0 +1,20 @@
+.tinggi {
+  height: 100vh;
+}
+
+.border-radius {
+  border-radius: 25px;
+  border: none;
+}
+
+.radius {
+  border-radius: 25px;
+}
+
+.border-color {
+  border-radius: 5px;
+  box-shadow: 0 0 5px 0px black;
+  border: none;
+}
+
+
